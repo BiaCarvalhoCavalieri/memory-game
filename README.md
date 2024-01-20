@@ -4,7 +4,7 @@
 </h2>
 
 - Build for mobile and desktop
-- Check the results here: 
+- Check the results here: https://biacarvalhocavalieri.github.io/memory-game/
 
 ## 🖊️ Autor
 
